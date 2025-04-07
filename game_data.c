@@ -74,7 +74,7 @@ void addPromptStrToLevel(LevelData* level, char* sentenceStr) {
 
     // Add prompt to the level's promptArray
     level->promptArray[level->totalPrompts++] = prompt;
-}
+}   asfhjsfbdsljfkdsn
 
 void compactLevel(LevelData* level) {
     // Change level's promptCapacity to value of totalPrompts
