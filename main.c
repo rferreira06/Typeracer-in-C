@@ -207,20 +207,34 @@ int main() {
      GamemodeData g3 = createGamemode();
 
      LevelData g3l1 = createLevel();
-	addPromptStrToLevel(&g3l1, "First prompt");
-	addPromptStrToLevel(&g3l1, "Second prompt");
-	addPromptStrToLevel(&g3l1, "Third prompt");
-	addPromptStrToLevel(&g3l1, "Fourth prompt");
+	addPromptStrToLevel(&g3l1, "You shuddered as you gazed, and wondered what monstrous cannibal
+		and savage could ever have gone a death-harvesting with such a hacking, horrifying implement. 
+		Mixed with these were rusty old whaling lances and harpoons all broken and deformed.");
+	addPromptStrToLevel(&g3l1, "Now, that Lazarus should lie stranded there on the curbstone before the door of Dives, 
+		this is more wonderful than that an iceberg should be moored to one of the Moluccas.");
+	addPromptStrToLevel(&g3l1, "Let them talk of their oriental summer climes of everlasting conservatories; 
+		give me the privilege of making my own summer with my own coals.");
+	addPromptStrToLevel(&g3l1, "But it’s too late to make any improvements now. 
+		The universe is finished; the copestone is on, and the chips were carted off a million years ago.");
      LevelData g3l2 = createLevel();
-	addPromptStrToLevel(&g3l2, "Fifth prompt");
-	addPromptStrToLevel(&g3l2, "Sixth prompt");
-	addPromptStrToLevel(&g3l2, "Seventh prompt");
-	addPromptStrToLevel(&g3l2, "Eigth prompt");
+	addPromptStrToLevel(&g3l2, "It had a careless look, as if it were meant for the uses of the public; so, entering, 
+		the first thing I did was to stumble over an ash-box in the porch.");
+	addPromptStrToLevel(&g3l2, "Now having a night, a day, and still another night following before me in New Bedford, 
+		ere I could embark for my destined port, it became a matter of concernment where I was to eat and sleep meanwhile.");
+	addPromptStrToLevel(&g3l2, "As most young candidates for the pains and penalties of whaling stop at this same New Bedford, 
+		thence to embark on their voyage, it may as well be related that I, for one, had no idea of so doing.");
+	addPromptStrToLevel(&g3l2, "He thinks he breathes it first; but not so. 
+		In much the same way do the commonalty lead their leaders in many other things, at the same time that the leaders little suspect it.");
      LevelData g3l3 = createLevel; 
-	addPromptStrToLevel(&g3l3, "Ninth prompt");
-	addPromptStrToLevel(&g3l3, "Tenth prompt");
-	addPromptStrToLevel(&g3l3, "Eleventh prompt");
-	addPromptStrToLevel(&g3l3, "Twelfth prompt");
+	addPromptStrToLevel(&g3l3, "And there is all the difference in the world between paying and being paid. 
+		The act of paying is perhaps the most uncomfortable infliction that the two orchard thieves entailed upon us.");
+	addPromptStrToLevel(&g3l3, "Deep into distant woodlands winds a mazy way, 
+		reaching to overlapping spurs of mountains bathed in their hill-side blue.");
+	addPromptStrToLevel(&g3l3, "Should you ever be athirst in the great American desert, try this experiment,
+		if your caravan happen to be supplied with a metaphysical professor. Yes, as every one knows, meditation and water are wedded for ever.");
+	addPromptStrToLevel(&g3l3, "Say, you are in the country; in some high land of lakes. 
+		Take almost any path you please, and ten to one it carries you down in a dale, 
+		and leaves you there by a pool in the stream. there is magic in it.");
 
 	addLevelToGamemode(&g3, g3l1);
     	addLevelToGamemode(&g3, g3l2);
@@ -229,20 +243,37 @@ int main() {
       GamemodeData g4 = createGamemode();
 
       LevelData g4l1 = createLevel();
-	addPromptStrToLevel(&g4l1, "First prompt");
-	addPromptStrToLevel(&g4l2, "Second prompt");
+	addPromptStrToLevel(&g4l1, "Prince Vasili did not reply, though, with the 
+		quickness of memory and perception befitting a man of the world,
+		he indicated by a movement of the head that he was considering this information.");
+	addPromptStrToLevel(&g4l1, "Anna Pavlovna’s alarm was justified, 
+		for Pierre turned away from the aunt without waiting to hear her speech about Her Majesty’s health.");
       LevelData g4l2 = createLevel();
-	addPromptStrToLevel(&g4l2, "Third prompt");
-	addPromptStrToLevel(&g4l2, "Fourth prompt");
+	addPromptStrToLevel(&g4l2, "Pierre murmured something unintelligible, and continued to look round as if in search of something. 
+		On his way to the aunt he bowed to the little princess with a pleased smile, as to an intimate acquaintance.");
+	addPromptStrToLevel(&g4l2, "Though he was certainly rather bigger than the other men in the room, 
+		her anxiety could only have reference to the clever though shy, 
+		but observant and natural, expression which distinguished him from everyone else in that drawing room.");
       LevelData g4l3 = createLevel();
-	addPromptStrToLevel(&g4l3, "Fifth prompt");
-	addPromptStrToLevel(&g4l3, "Sixth prompt");
+	addPromptStrToLevel(&g4l3, "The young man had not yet entered either the military or civil service, 
+		as he had only just returned from abroad where he had been educated, 
+		and this was his first appearance in society. ");
+	addPromptStrToLevel(&g4l3, " All who talked to her, and at each word saw her bright smile and the constant gleam of her white teeth, 
+		thought that they were in a specially amiable mood that day.");
       LevelData g4l4 = createLevel();
-	addPromptStrToLevel(&g4l4, "Seventh prompt");
-	addPromptStrToLevel(&g4l4, "Eigth prompt");
+	addPromptStrToLevel(&g4l4, "Her pretty little upper lip, on which a delicate dark down was just perceptible,
+		was too short for her teeth, but it lifted all the more sweetly, 
+		and was especially charming when she occasionally drew it down to meet the lower lip.");
+	addPromptStrToLevel(&g4l4, "Each visitor performed the ceremony of greeting this old aunt whom not one of them knew, 
+		not one of them wanted to know, and not one of them cared about; 
+		Anna Pavlovna observed these greetings with mournful and solemn interest and silent approval.");
       LevelData g4l5 = createLevel();
-	addPromptStrToLevel(&g4l5, "Ninth prompt");
-	addPromptStrToLevel(&g4l5, "Tenth prompt");
+	addPromptStrToLevel(&g4l5, "The highest Petersburg society was assembled there: people differing widely in age and character but alike in the social circle to which they belonged. 
+		Prince Vasili’s daughter, the beautiful Helene, came to take her father to the ambassador’s entertainment; 
+		she wore a ball dress and her badge as maid of honor.");
+	addPromptStrToLevel(&g4l5, "Her father is very rich and stingy. He lives in the country.
+		He is the well-known Prince Bolkonski who had to retire from the army under the late Emperor, 
+		and was nicknamed the King of Prussia. He is very clever but eccentric, and a bore. The poor girl is very unhappy. ");
 
 	addLevelToGamemode(&g4, g4l1);
     	addLevelToGamemode(&g4, g4l2);
